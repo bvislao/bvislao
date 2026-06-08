@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About me
 
-Full-stack software engineer from Peru with **6+ years** building production applications.
+Full-stack software engineer from Peru with **8+ years** building production applications.
 I currently engineer the product and financial core of **[Vivela.lat](https://vivela.lat)** — a real-estate platform — with **Java / Spring Boot** on the backend and **React / TypeScript / Next.js** on the frontend.
 
 - 🔭 Currently building **Vivela.lat**
