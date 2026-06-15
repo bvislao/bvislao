@@ -21,7 +21,6 @@ Full-stack software engineer with **8+ years** shipping production software. I c
 ```text
 🔭  Building     → Vivela.lat (Java/Spring Boot · React/TypeScript/Next.js)
 🧩  Focused on   → domain-driven design, clean architecture, financial accuracy
-🎥  I teach      → backend & web dev on YouTube (@thejavizho)
 📫  Reach me     → bvislao95@gmail.com
 ```
 
